@@ -1,4 +1,4 @@
-# NFT Game Project #
+# NFT Game Project
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
